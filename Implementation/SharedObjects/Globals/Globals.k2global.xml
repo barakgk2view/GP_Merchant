@@ -3,7 +3,7 @@
   <Name>Globals</Name>
   <ItemsList>
     <MajorGlobalItem type="Constant" name="NEW">
-      <Value>1</Value>
+      <Value>2</Value>
     </MajorGlobalItem>
   </ItemsList>
 </MajorGlobal>
